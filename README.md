@@ -1,5 +1,5 @@
 # 👋 Hello World! I'm **Vishal Lodhari**  
-### _Cybersecurity Engineer & Ethical Hacker | MSc in Cybersecurity | SOC Analsyt
+### _Cybersecurity Engineer & Ethical Hacker | MSc in Cybersecurity | SOC Analyst_
 
 ---
 
