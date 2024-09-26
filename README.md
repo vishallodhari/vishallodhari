@@ -11,7 +11,7 @@
 
 ### 🛡️ About Me:
 - 🎓 **MSc in Cybersecurity** from Lancaster University (Distinction)  
-- 🛠️ **5+ years of hands-on experience** in cybersecurity, working with top industry leaders like **BAE Systems** and **Tata Consultancy Services**.
+- 🛠️ **4+ years of hands-on experience** in cybersecurity, working with top industry leaders like **BAE Systems** and **Tata Consultancy Services**.
 - 🏆 Passionate about Capture the Flag (CTF) competitions, with a **2nd place finish** at Sheffield University's Hack the Box CTF and **1st place** at Adrian DS Hackathon.
 - 🎤 Mentor for aspiring cybersecurity professionals at **Lancaster University**.
 
