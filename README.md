@@ -45,6 +45,23 @@
 
 ---
 
+### 📂 Projects Undertaken:
+#### 🛡️ Cookie Guardian (2023)
+- Led the development and deployment of the **"Cookie Guardian"** Chrome extension aimed at increasing users' digital privacy.
+- Achieved a **20% increase** in efficiency, accuracy, and speed compared to industry-leading tools.
+- Collaborated with an industry expert, leveraging the latest web technologies.
+
+#### 🔐 Secure Chat Application (2023)
+- Developed an asynchronous, **peer-to-peer chat application** utilizing TCP network communication.
+- **Security Enhancements**: Implemented mutual CHAP (Challenge Handshake Authentication Protocol) to strengthen security.
+
+#### 🧮 Cyber Risk Assessment for an Organisation (2023)
+- Created a **Python program** to quantify various cyber risks to an organization using **Monte Carlo simulation**.
+- Visualized the **Annual Loss Expectancy (ALE)** of the organization associated with cyber risks.
+- Provided clear graphical representation for effective communication of risk assessment results.
+
+---
+
 ### 🏅 Achievements & Awards:
 - **1st Place** in Adrian DS Hackathon 🥇  
 - **2nd Place** at Sheffield University's Hack the Box CTF 🥈  
